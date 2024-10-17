@@ -23,7 +23,7 @@ export default function Hero() {
         On top of this, it&apos;s open source and you can see the code.
       </p>
       <div className="mt-4 flex gap-4 justify-center">
-        <Link href={'/'} className="bg-black text-white py-2 px-4 rounded-full">
+        <Link href={'/api/auth'} className="bg-black text-white py-2 px-4 rounded-full">
           Get started for free
         </Link>
         <Link href={'/'} className="border border-gray-300 rounded-full py-2 px-4 inline-flex gap-1 items-center text-gray-800">
